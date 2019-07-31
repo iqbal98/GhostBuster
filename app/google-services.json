@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "175050399860",
+    "firebase_url": "https://ghostbuster-a47e0.firebaseio.com",
+    "project_id": "ghostbuster-a47e0",
+    "storage_bucket": "ghostbuster-a47e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175050399860:android:771c8d5b466b2d4d",
+        "android_client_info": {
+          "package_name": "com.example.zoro.ghostbuster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175050399860-lc8p8ei0dd8dpm2up66abjld4rderrca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoro.ghostbuster",
+            "certificate_hash": "29314345f509fa74f6f04092e5e7c5c7fca3f05e"
+          }
+        },
+        {
+          "client_id": "175050399860-67dr21hgd6h8dfbisa9eu4019uu243u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPWPzc8yZFKxsEEP009EZvL4B2UypfDtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175050399860-67dr21hgd6h8dfbisa9eu4019uu243u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

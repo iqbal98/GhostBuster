@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GhostBuster</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">APLIKASI SIMPLE</string>
+    <string name="slide_1_desc">Rasakan Sensasi menyeramkannya</string>
+
+    <string name="slide_2_title">MUDAH DIAKSES</string>
+    <string name="slide_2_desc">Temukan tempat angker untuk kamu kunjungi</string>
+    <string name="api_key_android">AIzaSyAuQiABwCOqypxd2bU1kFsnL99E8h1KJRc</string>
+
+    <string name="slide_3_title">MENARIK</string>
+    <string name="slide_3_desc">Design Menarik Menantimu. Segera cari tujuan untuk uji nyalimu</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_home2">HomeActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="about">about</string>
+    <string name="search">search</string>
+
+</resources>
